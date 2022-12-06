@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/Shpetim12/cam
 
 * pip install -r requirements.txt
 
